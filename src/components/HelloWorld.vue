@@ -116,10 +116,11 @@
         pero un resultado aún más interesante nos conduce a pensar que la fusión de la 
         tendencia musical se desarrolla por niveles. Estamos en un momento donde 
         se han formado las principales congregaciones a través de la mezcla de elementos con puntos comunes:
-        dígase historias enlazadas, lenguas similares o geografías hermanas.</br>
+        dígase historias enlazadas, lenguas similares o geografías hermanas.
+      </p>
+      <p style="text-align:justify">
         ¿Cuál será el <b>siguiente nivel</b>?
       </p>
-      
       <p style="text-align: justify">        
         Si observamos el crecimiento de la similitud entre los grupos representativos con el centro global, éste nos sugiere 
         que el próximo paso será la <b>fusión</b> del cada una de los conjuntos, para vislumbrar el punto final de
@@ -149,7 +150,7 @@
         similares distribuciones de índices: países que
         <b>comparten fronteras</b> como Alemania, Austria y Suiza o
         <b>raíces lingüísticas comunes</b> Argentina, Italia, Chile y España;
-        forman las componentes más homogéneas. Otro clúster está compuesto por
+        forman las componentes más homogéneas. Otro grupo está compuesto por
         Indonesia, Taiwan, Vietnam, Tailandia, Filipinas y Malasia; apoyando la
         hipótesis de que países cercanos geográfica y culturalmente tendrán
         gustos musicales similares.
@@ -185,12 +186,12 @@
       En conclusión, podemos decir que la música en tendencia queda categorizada dentro de una 
       etiqueta acuñada como <i>world music</i>, que engloba simbólicamente nuestro capricho 
       por hablar la misma lengua. 
-      Los ritmos originales se deforman y se fusionan para crear un cuerpo musical que se aleja
-      de su génesis multicolor para perderse eternamente en la universalidad. 
       La cultura, en su papel estructurador de la sociedad, es consistente con las estructuras de poder 
       convencionales. 
       La eficiencia del mercado musical necesita del concurso de la globalización para cumplir sus objetivos:
       las fronteras dejarán de ser un límite para la hegemonía cultural. 
+      Los ritmos originales se deforman y se fusionan para crear un cuerpo musical que se aleja
+      de su génesis multicolor para perderse eternamente en la universalidad. 
       </p>
     </div>
   </div>
