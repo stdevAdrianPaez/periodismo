@@ -178,14 +178,6 @@
         un proceso de micro-fusión.
       </p>
       <radarchart />
-      <p style="text-align: justify">Los grupos estan conformados de la siguiente manera:
-        <ul>
-          <li>Grupo 1: Esta conformado por paises de habla hispana principalmente latinos como Argentina, Mexico y Espana.</li>
-          <li>Grupo 2: Paises fundamentalmente orientales como Indonesia y Taiwan.</li>
-          <li>Grupo 3: Representa paises con lenguas romances como Francia, Italia y Brasil.</li>
-          <li>Grupo 4: Esta conformado por paises conocidos como occidentales, como Estados Unidos, Reino unido, Canada y paises europeos.</li>
-        </ul>
-      </p>
       <p style="text-align: justify">
         Si comparamos los niveles de similitud interna a lo largo del tiempo,
         podemos constatar que evidentemente se produce una homogeneización de
