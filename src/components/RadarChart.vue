@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div>
     <select v-model="weekIndex1">
       <option v-for="(d, index) in getDates" :key="d" :value="index">
         {{ d }}
@@ -13,7 +13,7 @@
     <div id="chart">
       <apexchart
         type="radar"
-        height="350"
+        
         :options="chartOptions"
         :series="series"
       ></apexchart>
@@ -55,11 +55,11 @@ export default {
       });
       return [
         {
-          name: "Similitud 1",
+          name: "Semana 1",
           data: serie1_values,
         },
         {
-          name: "Similitud 2",
+          name: "Semana 2",
           data: serie2_values,
         },
       ];
@@ -71,7 +71,7 @@ export default {
       });
       return {
         chart: {
-          height: 350,
+          
           type: "radar",
         },
         title: {
