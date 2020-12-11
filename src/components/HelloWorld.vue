@@ -9,7 +9,6 @@
       </h3>
     </div>
     <div class="document">
-      <radarchart />
       <!--Paragraph 1: Presenting both sides of general phenomena-->
       <p style="text-align: justify">
         Cuenta una famosa leyenda bíblica que ninguna empresa sería imposible a
@@ -60,15 +59,10 @@
         vía de escape del <b>imperialismo cultural</b> y las autoridades de
         control del mercado musical. La migración, como motor impulsor de las
         primeras manifestaciones de transculturación, ha llevado de un lugar a
-        otro las nostalgias musicales de cada país. Estas dos variables se
-        comportan como determinantes en un resultado que se aleja del
-        empobrecimiento cromático del arcoiris musical: los dos últimos siglos
-        han sido testigos del surgimiento de los géneros más ricos y mestizos de
-        la historia. El jazz, la salsa, el rap, el hip-hop, el reggae y el pop
-        han marcado la tendencia de la creación musical actual. La
+        otro las nostalgias musicales de cada país. La
         <b>apertura de espacios</b> comunes ha ampliado el espectro de ritmos y
         ha promovido la <b>aceptación</b> en el mercado de formas novedosas de
-        hacer música. Somos todos diferentes y hemos encontrado la manera de
+        hacer música. Somos todos diferentes, pero hemos encontrado la manera de
         abrir un túnel invisible para decirnos cuán diferentes somos. Ahí radica
         la fuerza necesaria para poner el último ladrillo en nuestra Torre de
         Babel.
@@ -78,7 +72,7 @@
       <p style="text-align: justify">
         Para ponernos a tono con el tema que tratamos, no podemos obviar a las
         nuevas tecnologías de la información y la comunicación como arítifices
-        fundamentales de la construcción de ese túnel y si se habla de
+        fundamentales de la construcción de ese túnel, y si se habla de
         plataformas de <i>streaming</i> de música es obligatorio mencionar a
         <b>Spotify</b>. Con una base de suscriptores que <b>asciende</b> de 207
         millones de usuarios mensuales en 2018 a <b>217 millones</b> en 2019
@@ -90,22 +84,46 @@
 
       <!--Paragraph 5: Presenting data supporting previous statement. General analysis of data through interactive map-->
       <p style="text-align: justify">
-        En apoyo a nuestra premisa de pluralismo, <b>Spotify</b> demuestra a lo
-        largo de los últimos tres años una <b>diversificación</b> de las
-        canciones más escuchadas para cada país. Para nuestro estudio, se
-        seleccionó una muestra de potencias representativas:
-        <b
-          >EEUU, Reino Unido, Canadá, Brasil, Italia, España, Japón y
-          Alemania</b
-        >
-        en los años <b>2017, 2018 y 2019</b>. Como resultado general, el índice
-        promedio de similitud en el año 2017 es de un 38.22%, mientras que en
-        2018 <b>desciende</b> a un 29.5% y en 2019 a un 22.7%. En particular,
-        los países seleccionados proyectan el resultado general con un
-        decrecimiento del porciento de similitud en todos los casos.
+        La globalización no se trata de un mero acercamiento al balance, sino que muestra 
+        a la cultura anglosajona como pauta de la industria musical. Si bien el Reino Unido 
+        comenzó el trabajo dejándonos el legado de quienes 
+        se llamaron más famosos que Dios, o de quienes hallaron simpatía por el Diablo; 
+        ha sido América del Norte quien se ha consolidado como la vanguardia de lo más escuchado en los últimos tiempos. 
       </p>
-
-      <div class="entry-cover">
+      <p style="text-align: justify">
+        Por otro lado, la riqueza y diversidad de los ritmos latinoamericanos ha mostrado cierta resistencia a 
+        ser absorbida por los tentáculos del mercado mundial: la penetración es innegable, pero no absoluta.
+      </p>
+      
+      <div class="entry-cover"  style="margin-top:8px">
+        <div class="post-meta">
+          <select v-model="selectedDateGlobal">
+            <option disabled value="">Seleccione una fecha</option>
+            <option v-for="d in getDates" :key="d">{{ d }}</option>
+          </select>
+          <div class="hello" ref="chartdivGlobal"></div>
+        </div>
+      </div>
+      <p style="text-align: justify">
+        Pero... </br>
+          ¿en qué punto del fenómeno nos encontramos? 
+        </br>
+        Hasta ahora hemos 
+        demostrado que el mundo se agrupa en comunidades culturales, 
+        pero un resultado aún más interesante nos conduce a pensar que la fusión de la 
+        tendencia musical se desarrolla por niveles. Estamos en un momento donde 
+        se han formado las principales congregaciones a través de la mezcla de elementos con puntos comunes:
+        dígase historias enlazadas, lenguas similares o geografías hermanas.</br>
+        ¿Cuál será el <b>siguiente nivel</b>?
+      </p>
+      
+      <p style="text-align: justify">        
+        Si observamos el crecimiento de la similitud entre los grupos representativos con el centro global, éste nos sugiere 
+        que el próximo paso será la <b>fusión</b> del cada una de los conjuntos, para vislumbrar el punto final de
+        la globalización: la formación de una única comunidad universal. El proceso parece desarrollarse
+        de forma similar en cada uno de los niveles: las uniones se realizan a partir de los mismos criterios.
+      </p>
+      <div class="entry-cover" style="margin-top:8px">
         <div class="post-meta">
           <select v-model="selectedDate">
             <option disabled value="">Seleccione una fecha</option>
@@ -115,27 +133,16 @@
         </div>
       </div>
 
-      <div class="entry-cover">
-        <div class="post-meta">
-          <select v-model="selectedDateGlobal">
-            <option disabled value="">Seleccione una fecha</option>
-            <option v-for="d in getDates" :key="d">{{ d }}</option>
-          </select>
-          <div class="hello" ref="chartdivGlobal"></div>
-        </div>
-      </div>
-
-      <!--Paragraph 6: General grouping analysis-->
       <p style="text-align: justify">
         La <b>cercanía geográfica y cultural</b> es un factor influyente en la
         similitud de tendencias musicales. Países de histórico
         <b>intercambio</b> cultural y migratorio como EEUU, Canadá, Reino Unido
         y Australia poseen los <b>más altos</b> índices de similitud mutua y se
-        agrupan en uno de los <i>clústers</i> resultantes junto a Sudáfrica, un
+        agrupan junto a Sudáfrica, un
         país africano que se acerca mucho al estándar anglosajón. También,
-        probablemente como resultado de la colonización, España se encuentra
+        probablemente como resultado de la colonización y de la lengua común, España se encuentra
         junto a América Central y América del Sur en otro de los
-        <i>clústers</i>. En la muestra europea seleccionada, se observan
+        grupos. En la muestra europea seleccionada, se observan
         similares distribuciones de índices: países que
         <b>comparten fronteras</b> como Alemania, Austria y Suiza o
         <b>raíces lingüísticas comunes</b> Argentina, Italia, Chile y España;
@@ -144,38 +151,35 @@
         hipótesis de que países cercanos geográfica y culturalmente tendrán
         gustos musicales similares.
       </p>
-      <!--Paragraph 7: Minimum values-->
+
       <p style="text-align: justify">
         El país <b>más singular</b> es Brasil, con un discreto promedio de
         similaridad; consistente con su condición de
         <b>potencia cultural</b> con una fuerte industria musical nacional.
       </p>
 
-      <!--Paragraph 8: English speaking countries as centers of similarity-->
-      <p style="text-align: justify">
-        El <b>inglés</b> ha cobrado fortaleza como lenguaje predominante en las
-        tendencias musicales actuales: los <b>centros</b> de emisión cultural
-        más fuertes son <b>EEUU</b> y el <b>Reino Unido</b>, con un porciento de
-        similitud promedio de 41.2% y 29.3% respectivamente.
-      </p>
-
-      <!--Paragraph 9: West as a center of similarity-->
       <p style="text-align: justify">
         La <b>occidentalización</b> de Japón, con una distribución general de
         similitud que no se presenta diferente a la de cualquier otra potencia,
-        demuestra a Occidente como núcleo de la tendencia musical.
+        demuestra nuevamente a Occidente como núcleo de la tendencia musical.
       </p>
-
+      
       <p style="text-align: justify">
-        Pero esto no es todo: en los últimos meses la situación mundial ha dado
-        un vuelco inesperado. Hay males que nos unen, o bien con el objetivo de
-        aunar fuerzas, o bien en la búsqueda de consuelo y comprensión.
+        Si hacemos un análisis que va de lo general a lo particular, nos queda 
+        definir si en los grupos se mantienen las diferencias, o se lleva a cabo 
+        un proceso de micro-fusión. 
+      </p>
+      <radarchart />
+      <p style="text-align: justify">
+        Si comparamos los niveles de similitud interna a lo largo del tiempo, 
+        podemos constatar que evidentemente se produce una homogeneización de los grupos. 
       </p>
       <p style="text-align: justify">
-        La pandemia que nos azota se ha convertido en un momento de ligera, pero
-        constatable inflexión de las tendencias actuales: existe un crecimiento
-        de la similitud entre los países estudiados en el período descrito como
-        cuarentena.
+      En conclusión, podemos decir que la música en tendencia queda categorizada dentro de una 
+      etiqueta acuñada como <i>world music</i>, que engloba simbólicamente nuestro capricho 
+      por hablar la misma lengua. 
+      Los ritmos originales se deforman y se fusionan para crear un cuerpo musical que se aleja
+      de su génesis multicolor para perderse eternamente en la universalidad. 
       </p>
     </div>
   </div>
