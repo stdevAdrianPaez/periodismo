@@ -1,6 +1,6 @@
 [
     {
-        "name": "Grupo 1",
+        "name": "Latinoamérica hispana",
         "countries": [
             "ar",
             "bo",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "name": "Grupo 2",
+        "name": "Asia",
         "countries": [
             "hk",
             "id",
@@ -432,7 +432,7 @@
         ]
     },
     {
-        "name": "Grupo 3",
+        "name": "Países con lenguas de origen latino",
         "countries": [
             "br",
             "dk",
@@ -643,7 +643,7 @@
         ]
     },
     {
-        "name": "Grupo 4",
+        "name": "Países de origen anglosajón",
         "countries": [
             "au",
             "be",
