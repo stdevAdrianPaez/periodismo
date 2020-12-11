@@ -89,6 +89,9 @@
         comenzó el trabajo dejándonos el legado de quienes 
         se llamaron más famosos que Dios, o de quienes hallaron simpatía por el Diablo; 
         ha sido América del Norte quien se ha consolidado como la vanguardia de lo más escuchado en los últimos tiempos. 
+        La mundialización e internacionalización constituyen procesos direccionales: es mucho más fuerte el flujo de 
+        influencia cultural desde quienes tienen las herramientas adecuadas hacia quienes esperan con los brazos abiertos
+        cualquier soplo de primermundismo.  
       </p>
       <p style="text-align: justify">
         Por otro lado, la riqueza y diversidad de los ritmos latinoamericanos ha mostrado cierta resistencia a 
@@ -172,7 +175,11 @@
       <radarchart />
       <p style="text-align: justify">
         Si comparamos los niveles de similitud interna a lo largo del tiempo, 
-        podemos constatar que evidentemente se produce una homogeneización de los grupos. 
+        podemos constatar que evidentemente se produce una homogeneización de los grupos, 
+        especialmente de los representativos de ciertas pautas culturales universales. 
+        Podemos extraer también que existen naciones más resistentes a la penetración, 
+        y que se agrupan como las ovejas negras del rebaño para mantener un discreto crecimiento 
+        de las similitudes internas.  
       </p>
       <p style="text-align: justify">
       En conclusión, podemos decir que la música en tendencia queda categorizada dentro de una 
@@ -180,6 +187,10 @@
       por hablar la misma lengua. 
       Los ritmos originales se deforman y se fusionan para crear un cuerpo musical que se aleja
       de su génesis multicolor para perderse eternamente en la universalidad. 
+      La cultura, en su papel estructurador de la sociedad, es consistente con las estructuras de poder 
+      convencionales. 
+      La eficiencia del mercado musical necesita del concurso de la globalización para cumplir sus objetivos:
+      las fronteras dejarán de ser un límite para la hegemonía cultural. 
       </p>
     </div>
   </div>
