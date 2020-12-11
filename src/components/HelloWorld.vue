@@ -84,21 +84,24 @@
 
       <!--Paragraph 5: Presenting data supporting previous statement. General analysis of data through interactive map-->
       <p style="text-align: justify">
-        La globalización no se trata de un mero acercamiento al balance, sino que muestra 
-        a la cultura anglosajona como pauta de la industria musical. Si bien el Reino Unido 
-        comenzó el trabajo dejándonos el legado de quienes 
-        se llamaron más famosos que Dios, o de quienes hallaron simpatía por el Diablo; 
-        ha sido América del Norte quien se ha consolidado como la vanguardia de lo más escuchado en los últimos tiempos. 
-        La mundialización e internacionalización constituyen procesos direccionales: es mucho más fuerte el flujo de 
-        influencia cultural desde quienes tienen las herramientas adecuadas hacia quienes esperan con los brazos abiertos
-        cualquier soplo de primermundismo.  
+        La globalización no se trata de un mero acercamiento al balance, sino
+        que muestra a la cultura anglosajona como pauta de la industria musical.
+        Si bien el Reino Unido comenzó el trabajo dejándonos el legado de
+        quienes se llamaron más famosos que Dios, o de quienes hallaron simpatía
+        por el Diablo; ha sido América del Norte quien se ha consolidado como la
+        vanguardia de lo más escuchado en los últimos tiempos. La mundialización
+        e internacionalización constituyen procesos direccionales: es mucho más
+        fuerte el flujo de influencia cultural desde quienes tienen las
+        herramientas adecuadas hacia quienes esperan con los brazos abiertos
+        cualquier soplo de primermundismo.
       </p>
       <p style="text-align: justify">
-        Por otro lado, la riqueza y diversidad de los ritmos latinoamericanos ha mostrado cierta resistencia a 
-        ser absorbida por los tentáculos del mercado mundial: la penetración es innegable, pero no absoluta.
+        Por otro lado, la riqueza y diversidad de los ritmos latinoamericanos ha
+        mostrado cierta resistencia a ser absorbida por los tentáculos del
+        mercado mundial: la penetración es innegable, pero no absoluta.
       </p>
-      
-      <div class="entry-cover"  style="margin-top:8px">
+
+      <div class="entry-cover" style="margin-top: 8px">
         <div class="post-meta">
           <select v-model="selectedDateGlobal">
             <option disabled value="">Seleccione una fecha</option>
@@ -108,26 +111,28 @@
         </div>
       </div>
       <p style="text-align: justify">
-        Pero... </br>
-          ¿en qué punto del fenómeno nos encontramos? 
-        </br>
-        Hasta ahora hemos 
-        demostrado que el mundo se agrupa en comunidades culturales, 
-        pero un resultado aún más interesante nos conduce a pensar que la fusión de la 
-        tendencia musical se desarrolla por niveles. Estamos en un momento donde 
-        se han formado las principales congregaciones a través de la mezcla de elementos con puntos comunes:
-        dígase historias enlazadas, lenguas similares o geografías hermanas.
+        Pero...
+        <br />
+        ¿en qué punto del fenómeno nos encontramos?
+        <br />
+        Hasta ahora hemos demostrado que el mundo se agrupa en comunidades
+        culturales, pero un resultado aún más interesante nos conduce a pensar
+        que la fusión de la tendencia musical se desarrolla por niveles. Estamos
+        en un momento donde se han formado las principales congregaciones a
+        través de la mezcla de elementos con puntos comunes: dígase historias
+        enlazadas, lenguas similares o geografías hermanas.
       </p>
-      <p style="text-align:justify">
-        ¿Cuál será el <b>siguiente nivel</b>?
+      <p style="text-align: justify">¿Cuál será el <b>siguiente nivel</b>?</p>
+      <p style="text-align: justify">
+        Si observamos el crecimiento de la similitud entre los grupos
+        representativos con el centro global, éste nos sugiere que el próximo
+        paso será la <b>fusión</b> del cada una de los conjuntos, para
+        vislumbrar el punto final de la globalización: la formación de una única
+        comunidad universal. El proceso parece desarrollarse de forma similar en
+        cada uno de los niveles: las uniones se realizan a partir de los mismos
+        criterios.
       </p>
-      <p style="text-align: justify">        
-        Si observamos el crecimiento de la similitud entre los grupos representativos con el centro global, éste nos sugiere 
-        que el próximo paso será la <b>fusión</b> del cada una de los conjuntos, para vislumbrar el punto final de
-        la globalización: la formación de una única comunidad universal. El proceso parece desarrollarse
-        de forma similar en cada uno de los niveles: las uniones se realizan a partir de los mismos criterios.
-      </p>
-      <div class="entry-cover" style="margin-top:8px">
+      <div class="entry-cover" style="margin-top: 8px">
         <div class="post-meta">
           <select v-model="selectedDate">
             <option disabled value="">Seleccione una fecha</option>
@@ -142,13 +147,12 @@
         similitud de tendencias musicales. Países de histórico
         <b>intercambio</b> cultural y migratorio como EEUU, Canadá, Reino Unido
         y Australia poseen los <b>más altos</b> índices de similitud mutua y se
-        agrupan junto a Sudáfrica, un
-        país africano que se acerca mucho al estándar anglosajón. También,
-        probablemente como resultado de la colonización y de la lengua común, España se encuentra
-        junto a América Central y América del Sur en otro de los
-        grupos. En la muestra europea seleccionada, se observan
-        similares distribuciones de índices: países que
-        <b>comparten fronteras</b> como Alemania, Austria y Suiza o
+        agrupan junto a Sudáfrica, un país africano que se acerca mucho al
+        estándar anglosajón. También, probablemente como resultado de la
+        colonización y de la lengua común, España se encuentra junto a América
+        Central y América del Sur en otro de los grupos. En la muestra europea
+        seleccionada, se observan similares distribuciones de índices: países
+        que <b>comparten fronteras</b> como Alemania, Austria y Suiza o
         <b>raíces lingüísticas comunes</b> Argentina, Italia, Chile y España;
         forman las componentes más homogéneas. Otro grupo está compuesto por
         Indonesia, Taiwan, Vietnam, Tailandia, Filipinas y Malasia; apoyando la
@@ -167,31 +171,41 @@
         similitud que no se presenta diferente a la de cualquier otra potencia,
         demuestra nuevamente a Occidente como núcleo de la tendencia musical.
       </p>
-      
+
       <p style="text-align: justify">
-        Si hacemos un análisis que va de lo general a lo particular, nos queda 
-        definir si en los grupos se mantienen las diferencias, o se lleva a cabo 
-        un proceso de micro-fusión. 
+        Si hacemos un análisis que va de lo general a lo particular, nos queda
+        definir si en los grupos se mantienen las diferencias, o se lleva a cabo
+        un proceso de micro-fusión.
       </p>
       <radarchart />
-      <p style="text-align: justify">
-        Si comparamos los niveles de similitud interna a lo largo del tiempo, 
-        podemos constatar que evidentemente se produce una homogeneización de los grupos, 
-        especialmente de los representativos de ciertas pautas culturales universales. 
-        Podemos extraer también que existen naciones más resistentes a la penetración, 
-        y que se agrupan como las ovejas negras del rebaño para mantener un discreto crecimiento 
-        de las similitudes internas.  
+      <p style="text-align: justify">Los grupos estan conformados de la siguiente manera:
+        <ul>
+          <li>Grupo 1: Esta conformado por paises de habla hispana principalmente latinos como Argentina, Mexico y Espana.</li>
+          <li>Grupo 2: Paises fundamentalmente orientales como Indonesia y Taiwan.</li>
+          <li>Grupo 3: Representa paises con lenguas romances como Francia, Italia y Brasil.</li>
+          <li>Grupo 4: Esta conformado por paises conocidos como occidentales, como Estados Unidos, Reino unido, Canada y paises europeos.</li>
+        </ul>
       </p>
       <p style="text-align: justify">
-      En conclusión, podemos decir que la música en tendencia queda categorizada dentro de una 
-      etiqueta acuñada como <i>world music</i>, que engloba simbólicamente nuestro capricho 
-      por hablar la misma lengua. 
-      La cultura, en su papel estructurador de la sociedad, es consistente con las estructuras de poder 
-      convencionales. 
-      La eficiencia del mercado musical necesita del concurso de la globalización para cumplir sus objetivos:
-      las fronteras dejarán de ser un límite para la hegemonía cultural. 
-      Los ritmos originales se deforman y se fusionan para crear un cuerpo musical que se aleja
-      de su génesis multicolor para perderse eternamente en la universalidad. 
+        Si comparamos los niveles de similitud interna a lo largo del tiempo,
+        podemos constatar que evidentemente se produce una homogeneización de
+        los grupos, especialmente de los representativos de ciertas pautas
+        culturales universales. Podemos extraer también que existen naciones más
+        resistentes a la penetración, y que se agrupan como las ovejas negras
+        del rebaño para mantener un discreto crecimiento de las similitudes
+        internas.
+      </p>
+      <p style="text-align: justify">
+        En conclusión, podemos decir que la música en tendencia queda
+        categorizada dentro de una etiqueta acuñada como <i>world music</i>, que
+        engloba simbólicamente nuestro capricho por hablar la misma lengua. La
+        cultura, en su papel estructurador de la sociedad, es consistente con
+        las estructuras de poder convencionales. La eficiencia del mercado
+        musical necesita del concurso de la globalización para cumplir sus
+        objetivos: las fronteras dejarán de ser un límite para la hegemonía
+        cultural. Los ritmos originales se deforman y se fusionan para crear un
+        cuerpo musical que se aleja de su génesis multicolor para perderse
+        eternamente en la universalidad.
       </p>
     </div>
   </div>
@@ -229,25 +243,6 @@ export default {
       ],
       chart: null,
       polygonSeries: null,
-      // Radar chart
-      series: [
-        {
-          name: "Series 1",
-          data: [80, 50, 30, 40, 100, 20],
-        },
-      ],
-      chartOptions: {
-        chart: {
-          height: 350,
-          type: "radar",
-        },
-        title: {
-          text: "Basic Radar Chart",
-        },
-        xaxis: {
-          categories: ["January", "February", "March", "April", "May", "June"],
-        },
-      },
     };
   },
   mounted() {

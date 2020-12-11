@@ -75,7 +75,7 @@ export default {
           type: "radar",
         },
         title: {
-          text: "Similitud entre grupos",
+          text: "Similitud en los grupos",
         },
         xaxis: {
           categories: others,
