@@ -101,12 +101,15 @@
         mercado mundial: la penetración es innegable, pero no absoluta.
       </p>
 
+      <h3>Similitud de los grupos al promedio global</h3>
       <div class="entry-cover" style="margin-top: 8px">
         <div class="post-meta">
           <select v-model="selectedDateGlobal">
             <option disabled value="">Seleccione una fecha</option>
             <option v-for="d in getDates" :key="d">{{ d }}</option>
           </select>
+          <br />
+          <br />
           <div class="hello" ref="chartdivGlobal"></div>
         </div>
       </div>
@@ -132,12 +135,16 @@
         cada uno de los niveles: las uniones se realizan a partir de los mismos
         criterios.
       </p>
+
+      <h3>Agrupación de tendencias por semana</h3>
       <div class="entry-cover" style="margin-top: 8px">
         <div class="post-meta">
           <select v-model="selectedDate">
             <option disabled value="">Seleccione una fecha</option>
             <option v-for="d in getDates" :key="d">{{ d }}</option>
           </select>
+          <br />
+          <br />
           <div class="hello" ref="chartdiv"></div>
         </div>
       </div>
