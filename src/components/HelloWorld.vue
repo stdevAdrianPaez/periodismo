@@ -85,7 +85,7 @@
       <!--Paragraph 5: Presenting data supporting previous statement. General analysis of data through interactive map-->
       <p style="text-align: justify">
         La globalización no se trata de un mero acercamiento al balance, sino
-        que muestra a la cultura anglosajona como pauta de la industria musical.
+        que muestra al mercado anglosajón como pauta de la industria musical.
         Si bien el Reino Unido comenzó el trabajo dejándonos el legado de
         quienes se llamaron más famosos que Dios, o de quienes hallaron simpatía
         por el Diablo; ha sido América del Norte quien se ha consolidado como la
@@ -96,9 +96,12 @@
         cualquier soplo de primermundismo.
       </p>
       <p style="text-align: justify">
-        Por otro lado, la riqueza y diversidad de los ritmos latinoamericanos ha
-        mostrado cierta resistencia a ser absorbida por los tentáculos del
-        mercado mundial: la penetración es innegable, pero no absoluta.
+        Sin embargo, el fenómeno es más complejo. Es la industria estadounidense, sí, 
+        el que da impulso y visibilidad a las nuevas tendencias. Pero es desde 
+        la música latina que se genera la moda. <i>Spotify</i> demuestra, en el período analizado, 
+        que existe una presencia implacable de artistas latinos dominando el <i>hit parade</i>:
+        los principales exponentes son <i>Bad Bunny</i>, <i>J. Balvin</i>, 
+        <i>Anuel</i>, <i>Carol G.</i>, <i>Becky G</i>.  
       </p>
 
       <h3>Similitud de los grupos al promedio global</h3>
@@ -171,12 +174,45 @@
         El país <b>más singular</b> es Brasil, con un discreto promedio de
         similaridad; consistente con su condición de
         <b>potencia cultural</b> con una fuerte industria musical nacional.
+        La influencia de Brasil en el mercado musical mundial ha sido, de cierto 
+        modo, indirecta. Por un lado, los ritmos brasileños como el <i>bossa nova</i> o la <i>samba</i>
+        son una parte incuestionable del patrimonio musical de todos los tiempos; pero, 
+        si observamos el fenómeno desde el punto de vista del consumo de música endémica, 
+        éste se ve limitado por la barrera del idioma: el portugués no se encuentra tan extendido
+        como el español o el inglés. Sin embargo, en los últimos años se ha promovido la inserción
+        de dos géneros en el mercado mundial: el sertanejo y el <i>brazilian funk</i>. El primero, 
+        como derivación de la samba, nos lleva al Brasil que conocemos; el segundo, propone un 
+        toque moderno que renueva lo tradicional y logra fundirse con la base del popular <i>funk</i>.  
       </p>
 
       <p style="text-align: justify">
-        La <b>occidentalización</b> de Japón, con una distribución general de
-        similitud que no se presenta diferente a la de cualquier otra potencia,
-        demuestra nuevamente a Occidente como núcleo de la tendencia musical.
+      A pesar de que existe una tendencia a la occidentalización, 
+      el caso de potencias como Japón, Corea del Sur y China se ha tornado particular. Desde poco antes 
+      de 2018 Japón se encuentra en el segundo lugar del mercado de <i>streaming</i>
+      mundial. La cultura asiática ha logrado insertarse en la industria musical 
+      internacional logrando un híbrido conformado por elementos la música occidental 
+      mezclados originalmente con pinceladas de una cultura que nos resulta lejana. 
+      Uno de los ejemplos más ilustrativos es el fenómeno del KPop, una especie de 
+      derivación del popular género que tiene origen en Corea del Sur. La imagen  
+      andrógina de los integrantes es sólo uno de los elementos 
+      que hacen especiales a bandas como la aclamada BTS, que se encuentra entre 
+      los más populares en el último quinquenio, especialmente en la comunidad de 
+      12-15 años. La estética asiática se ha expandido principalmente a través de la 
+      industria cinematográfica, con afluentes fuertes en los dibujos animados; 
+      pero, definitivamente en los últimos años la música se ha tornado una 
+      alternativa cada vez más importante para su inserción en la cultura global.  
+      </p>
+      <p style="text-align: justify">
+      La música siempre ha sido una vía de sublimación los cambios sociales. A pesar de que 
+      los inicios del feminismo como movimiento reconocido se remonta a inicios del siglo XX,
+      en los últimos años se ha fortalecido la demanda de igualdad, con la bandera del empoderamiento
+      femenino. Por supuesto, la tendencia musical no puede estar ajena a este fenómeno: especialmente
+      como representantes de la música latina, surgen ídolos femeninos que se muestran como 
+      mujeres poderosas: <i>Carol G.</i>, quien con el tema <i>Tusa</i> ocupó el primer lugar durante varias semanas 
+      a principios de año; <i>Becky G.</i>, que a sus 23 años se coloca como artista latina de influencia; o Rosalía, 
+      un novedoso fenómeno que fusiona la música tradicional española con los ritmos actuales en su álbum <i>El mal querer</i>, 
+      que, además de hacerla increíblemente famosa, hizo ganar 
+      visibilidad a un ritmo tan antiguo como es el flamenco. 
       </p>
 
       <p style="text-align: justify">
